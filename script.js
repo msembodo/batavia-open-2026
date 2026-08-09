@@ -1,4 +1,4 @@
-const eventDate = new Date("2026-10-17T08:00:00+07:00").getTime();
+const eventDate = new Date("2026-10-24T08:00:00+07:00").getTime();
 function updateCountdown(){
   const diff = eventDate - Date.now();
   const values = diff > 0 ? {

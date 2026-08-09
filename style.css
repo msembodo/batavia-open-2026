@@ -225,7 +225,7 @@ h3 {
     z-index: 3;
     margin-top: -50px;
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 10px
 }
 
